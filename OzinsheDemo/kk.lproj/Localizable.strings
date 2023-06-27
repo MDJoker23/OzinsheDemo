@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  OzinsheDemo
+
+  Created by Joker on 23.04.2023.
+  
+*/
+"MY_PROFILE" = "Менің профилім";
+"LANGUAGE" = "Тіл";
+"PROFILE" = "Профиль";
+"GREETINGS" = "Сәлем";
+"CHANGE_BUTTON" = "KK";
+"EMAIL_TEXTFIELD" = "Сіздің email";
+"PASSWORD_TEXTFIELD" = "Сіздің құпия сөзіңіз";
+"PASSWORD_LABEL" = "Құпия сөз";
+"SIGN_IN_INFO" = "Аккаунтқа кіріңіз";
+"SIGN_IN_BUTTON" = "Кіру";
+"ADD_ACCOUNT_LABEL" = "Аккаунтыныз жоқ па?";
+"ADD_ACCOUNT_BUTTON" = "Тіркелу";
+"CONNECTION_ERROR" = "Қосылым қатесі";

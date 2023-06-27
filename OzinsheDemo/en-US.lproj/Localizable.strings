@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  OzinsheDemo
+
+  Created by Joker on 23.04.2023.
+  
+*/
+"MY_PROFILE" = "My profile";
+"LANGUAGE" = "Language";
+"PROFILE" = "Profile";
+"CONNECTION_ERROR" = "Connection error";

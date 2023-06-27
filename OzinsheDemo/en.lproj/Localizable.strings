@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  OzinsheDemo
+
+  Created by Joker on 23.04.2023.
+  
+*/
+"MY_PROFILE" = "My profile";
+"LANGUAGE" = "Language";
+"PROFILE" = "Profile";
+"GREETINGS" = "Hello";
+"CHANGE_BUTTON" = "EN";
+"EMAIL_TEXTFIELD" = "Your email";
+"PASSWORD_TEXTFIELD" = "Your password";
+"PASSWORD_LABEL" = "Password";
+"SIGN_IN_INFO" = "Authorization";
+"SIGN_IN_BUTTON" = "Sign in";
+"ADD_ACCOUNT_LABEL" = "Create an account?";
+"ADD_ACCOUNT_BUTTON" = "Create";
+"CONNECTION_ERROR" = "CONNECTION_ERROR";
